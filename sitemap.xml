@@ -1,62 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/theologie/index.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/programmeren/index.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/schaken/index.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/sociale/index.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/Annunciatie.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/Kop.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/dialoog.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/index.html</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://oleksandr-zhabenko.github.io/nl/rhythmicity/phladiprelioEng.pdf</loc>
-  <lastmod>2023-10-15T12:58:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/theologie/index.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/programmeren/index.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/schaken/index.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/sociale/index.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/Annunciatie.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/Kop.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/dialoog.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/index.html</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://oleksandr-zhabenko.github.io/nl/rhythmicity/phladiprelioEng.pdf</loc>
+       <lastmod>2023-10-16T11:13:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
 </urlset>
